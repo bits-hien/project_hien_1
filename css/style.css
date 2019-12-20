@@ -1,0 +1,102 @@
+.body1 {
+    width: 793px;
+    height: 900px ;
+    background-color: white;
+    color: red;
+    margin-top: 35px;
+    padding: 20px;
+}
+
+body {
+    background-image: url('../back.jfif');
+    background-size: cover;
+    background-position: center center;
+}
+
+nav {
+    height: 50px;
+    background-color: darkslategray;
+}
+
+.task-list {
+    background-color: #e6e6e6;
+    width: 600px;
+    height: 80px;
+    font-size: 25px;
+    padding: 25px;
+    color: grey;
+    
+
+}
+
+.new-task {
+    background-color: white;
+    width: 550px;
+    height: 250px;
+    margin-top: 20px;
+    padding: 0px;
+    border: #d9d9d9 solid 1px;
+    color: grey;
+}
+
+.new-task1 {
+    background-color: white;
+    width: 550px;
+    height: 350px;
+    margin-top: 20px;
+    padding: 0px;
+    border: #d9d9d9 solid 1px;
+    color: grey;
+}
+
+.task{
+    background-color: #e6e6e6;
+    height: 50px;
+    width: 100%;
+    margin-bottom: 20px;
+    padding-left: 25px;
+    font-size: 18px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: gray;
+}
+
+.task->div{
+    background-color: white;
+    width: 100%;
+    padding: 20px;
+    padding-left: 30px;
+    font-size: 16px;
+}
+
+.content {
+    width: 773px;
+
+}
+
+.input-new {
+    width: 500px;
+    border: 1px solid;
+    border-color: #d9d9d9;
+
+}
+
+.input-new1 {
+    width: 500px;
+    margin-bottom: 25px;
+    border: none;
+    border-top: 2px solid #d9d9d9;
+}
+
+.input-add {
+    margin-top: 20px;
+    width: 120px;
+}
+
+.delete {
+    background-color: red;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
